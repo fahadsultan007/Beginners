@@ -1,1 +1,1 @@
-print(king)
+print(nu_2)
